@@ -6,7 +6,7 @@ Testing Back&amp; integrated in an Ionic App
 
 **Somente os plugin padrões da instalação ionic**
 
-Plugins não inclusos no repositório, necessitam instalação manual.
+Plugins não foram inclusos no repositório, necessitam instalação manual.
 
 listagem dos plugins:
 
