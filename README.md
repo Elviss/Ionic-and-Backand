@@ -1,2 +1,2 @@
-# Ionic-and-Backand
+# Ionic and Back&
 Testing Back&amp; integrated in an Ionic App
